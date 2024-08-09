@@ -1,0 +1,10 @@
+id,title,description,advertiserName,advertiserEmail,advertiserPhone,discount,createData,endData,advertisingCounter,descriptionOfTheCoupon
+1,Holiday Sale,Up to 50% off on holiday items!,HolidayMart,support@holidaymart.com,+1234567891,50%,2024-06-01,2024-12-25,50,Get up to 50% off on all holiday items during our special sale!
+2,New Year Offer,20% discount on new year gifts!,GiftShop,contact@giftshop.com,+1234567892,20%,2024-12-01,2025-01-15,30,Enjoy a 20% discount on all new year gifts and accessories!
+3,Black Friday Deals,Massive discounts on Black Friday!,DealsStore,deals@dealsstore.com,+1234567893,70%,2024-11-01,2024-11-30,200,Don't miss out on our Black Friday deals with up to 70% off!
+4,Spring Sale,Save 30% on spring collection!,FashionHub,sales@fashionhub.com,+1234567894,30%,2024-03-01,2024-04-30,80,Get the latest spring collection at a 30% discount!
+5,Back to School,15% off on school supplies!,EduMart,info@edumart.com,+1234567895,15%,2024-07-01,2024-09-01,150,Back to school sale with 15% off on all school supplies!
+6,Summer Special,25% off on summer wear!,SummerStore,support@summerstore.com,+1234567896,25%,2024-05-01,2024-08-31,70,Beat the heat with 25% off on all summer wear!
+7,Winter Clearance,Up to 60% off on winter items!,WinterShop,contact@wintershop.com,+1234567897,60%,2024-11-01,2025-02-28,40,Clearance sale with up to 60% off on all winter items!
+8,Valentine's Day,Special discounts for Valentine's Day!,LoveStore,love@lovestore.com,+1234567898,40%,2024-02-01,2024-02-14,25,Show your love with special discounts on Valentine's Day gifts!
+9,Autumn Sale,30% off on autumn collection!,AutumnStore,sales@autumnstore.com,+1234567899,30%,2024-09-01,2024-11-30,60,Get ready for autumn with 30% off on our latest collection!
